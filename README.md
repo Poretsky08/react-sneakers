@@ -1,5 +1,7 @@
 ## Учебный пет проект интернет-магазина кроссовок.
 
+### Демо: https://poretsky08.github.io/react-sneakers/
+
 ### Stack:
 
 ReactJS и хуки<br>
